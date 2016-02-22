@@ -1,1 +1,1 @@
-# mbook-backend
+# mbook-backend - This is the project designed to learn the architecture designing of an enterprise level social networking application development like facebook and its implementation with using the meanstack technology.
