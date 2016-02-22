@@ -1,0 +1,26 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "Scratch Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "angular-route": "^1.4.9",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.5.4",
+    "mongoose": "^4.4.3",
+    "morgan": "^1.6.1",
+    "nodemailer": "^2.2.1",
+    "nodemon": "^1.8.1",
+    "parse-http-header": "^1.0.0",
+    "passport": "^0.3.2",
+    "websmscom": "^1.0.2"
+  }
+}
